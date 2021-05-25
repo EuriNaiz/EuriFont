@@ -1,0 +1,8 @@
+/* euri */
+@font-face {
+	font-family: Euri;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Euri"), url(euri.woff2) format("woff2");
+}
+
